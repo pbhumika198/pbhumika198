@@ -15,7 +15,7 @@
 
 ## 🙋‍♀️ About Me
 
-I'm *Bhumika, a passionate **Frontend Developer* at the start of an exciting journey in tech. I love transforming ideas into elegant, responsive web experiences that users actually enjoy using. Every pixel matters, every interaction counts — and I bring that energy to everything I build.
+I'm Paramasetty Bhumika, a passionate Frontend Developer at the start of an exciting journey in tech. I love transforming ideas into elegant, responsive web experiences that users actually enjoy using. Every pixel matters, every interaction counts — and I bring that energy to everything I build.
 
 - 💻 *Passionate* about building responsive, accessible web applications
 - 🚀 *Currently learning* advanced React.js, REST APIs, and modern JavaScript patterns
