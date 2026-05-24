@@ -60,7 +60,7 @@ I'm Paramasetty Bhumika, a passionate Frontend Developer at the start of an exci
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pbhumika198&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pbhumika198&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbhumika198&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 
